@@ -2,8 +2,8 @@
 
 ## Learning Goals
 
-- Define Big O notation
-- Calculate time and space complexity using Big O notation
+- Define Big O notation.
+- Calculate time and space complexity using Big O notation.
 
 ## Introduction
 
